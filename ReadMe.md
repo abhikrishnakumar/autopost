@@ -18,8 +18,8 @@ This bot can send all new messages from one channel, directly to another channel
 Add the above values to the environment vars and deploy the bot.
 </details>
 <details>
+<a href="https://heroku.com/deploy?template=https://github.com/dmxbasil/autopost.git/tree/main">
 
-https://github.com/dmxbasil/autopost.git
 <summary>Local Deploys</summary>
 <br>
 - Clone the repo:   <code>git clone https://github.com/xditya/ChannelAutoForwarder</code></br>
